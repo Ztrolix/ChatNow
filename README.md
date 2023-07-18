@@ -1,2 +1,2 @@
 # ChatNow
-ChatNow is a call and messaging service.
+### ChatNow is a call and messaging service.
